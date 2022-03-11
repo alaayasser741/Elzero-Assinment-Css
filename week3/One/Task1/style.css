@@ -1,0 +1,45 @@
+div{
+    background-color: rgb(235, 231, 231);
+    text-align: center;
+    width: 800px;
+    margin: 200px auto;
+    overflow: hidden;
+}
+h2,h1{
+    background-color: #ccc;
+}
+h1{
+    width: 770px;
+    text-align: center;
+    padding: 10px 0;
+    margin-left: 1.875%;
+}
+
+.a{
+    width: 30.83%;
+    text-align: center;
+    float: left;
+    padding: 15px 0;
+    margin-left: 1.875%;
+}
+.b{
+    width: 47.1874%;
+    text-align: center;
+    float: left;
+    padding: 15px 0;
+    margin-left: 1.875%;
+}
+.c{
+    width: 22.65625%;
+    text-align: center;
+    float: left;
+    padding: 15px 0;
+    margin-left: 1.875%;
+}
+
+/* 
+800 px 
+1/3 >> 60 not available 740px available 92.5% >> 92.5/3 =30.83
+1/2 >>  45px not available 755px available 94.375% >> 47.1874%
+1/4 >> 75px not available 725px available 90.625% >> 22.65625%
+*/

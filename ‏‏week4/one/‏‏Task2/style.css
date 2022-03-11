@@ -1,0 +1,17 @@
+div{
+    background-color: #ccc;
+    margin: 10px auto;
+    width: 300px;
+    position: relative;
+    height: 60px;
+    text-align: center;
+}
+div::before{
+    content:"1" ;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    position: absolute;
+    left: -14px;
+    top: 10px;
+}

@@ -1,0 +1,15 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+}
+.one{
+    font-size: 60px;
+}
+.two{
+    font-size: 50px;
+}
+.three{
+    font-size: 50px;
+    text-transform: lowercase;
+}

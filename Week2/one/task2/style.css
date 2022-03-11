@@ -1,0 +1,16 @@
+div{
+    background-color: rgb(136, 2, 2);
+    margin: 20px;
+    color: white;
+    padding: 20px 30px;
+    font-size: 25px;
+    max-width: fit-content;
+}
+.title-three{
+    max-width: 500px;
+    height: 40px;
+}
+p{
+    background-color: rgb(36, 122, 202);
+    position: relative;
+}
